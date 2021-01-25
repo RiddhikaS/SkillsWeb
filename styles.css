@@ -1,0 +1,33 @@
+body{
+    background-color:#e3e3e3;
+    font-family: 'Times New Roman', Times, serif;
+}
+ .container{
+     margin-right:40px;
+     margin-left:50px;
+     margin-top: 10px;
+ }
+ #hero{
+     margin-bottom:10px ;
+ }
+ #image{
+    max-height:300px;
+     margin-right: auto;
+     margin-left: auto;
+ }
+ h1{
+     font-size: 75px;
+ }
+ h2{
+     font-size: 60px;
+ }
+ h3{
+     font-size: 50px;
+ }
+ h4{
+     font-size: 25px;
+ }
+ #heading{
+
+     color: red;
+ }
